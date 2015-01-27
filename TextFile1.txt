@@ -1,8 +1,0 @@
-FirstSequence = "What do you want ?"
-
-CalmDownPeriod = 10
-
-When Disturbed
-   RunSequence
-   SelectNextSequence
-End
